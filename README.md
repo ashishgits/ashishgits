@@ -2,8 +2,12 @@
 
 I'm a Computer Science Enthusiast! I love to take on new challenges and solve real world problems with an aim to make a positive impact on the society. I really enjoy designing & developing scalable and useful software applications.
 Besides that, I am really passionate about the field of Web Development and Blockchain.
+<br>
 
+## Skills 👨‍🔬
 
+### Programming Languages
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--
 **ashishgits/ashishgits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
