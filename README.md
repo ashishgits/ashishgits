@@ -2,7 +2,7 @@
 <br>
 
 I'm a Computer Science Enthusiast! I love to take on new challenges and solve real world problems with an aim to make a positive impact on the society. I really enjoy designing & developing scalable and useful software applications.
-Besides that, I am really passionate about the field of Web Development and Blockchain.
+Besides that, I am really passionate about the field of **Web Development** and **Blockchain**.
 <br>
 
 ## Skills 👨‍🔬
@@ -23,6 +23,20 @@ Besides that, I am really passionate about the field of Web Development and Bloc
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
+
+
+<div align="center">
+  <a >
+  </a>
+  <br/>
+  <br/>
+  
+
+## Let's Connect 🧑‍🤝‍🧑 
+<br>
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-bhandari-b6001a168/)&nbsp;&nbsp;
 
 
 <!--
